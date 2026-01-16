@@ -1,0 +1,11 @@
+.about{
+    text-align: center;
+    height: 120px;
+    padding-top: 150px;
+}
+a{
+    color: blue;
+}
+a:hover{
+    color: red;
+}
