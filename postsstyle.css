@@ -4,8 +4,13 @@
 .title img{
     width: 250px;
 }
+body{
+    width: 70%;
+    text-align: center;
+}
 h2{
     color: blue;
     font-style: italic;
     text-align: center;
 }
+
